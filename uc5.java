@@ -1,5 +1,6 @@
 public class uc5 {
     public static void main(String[] args) {
+        // UC5 Banner Print
 
         String[] lines = {
                 String.join(" ", "   ***   ", "   ***   ", "   ******    ", "   *****  "),
